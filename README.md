@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandru-Dumitrel-Gheorghe
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Css, Html , JavaScrypt
+- 🌱 I’m currently learning Css, Html , JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Loop repeats actions "Loopself never gets tired".
